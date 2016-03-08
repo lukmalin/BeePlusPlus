@@ -7,7 +7,7 @@ public class TestModel {
     private String welcomeString;
 
     public TestModel(){
-        welcomeString = "String powitalny, zakodowany na stałe w TestModel";
+        welcomeString = "String porzegnalny, zakodowany na stałe w TestModel";
     }
 
     public String getWelcomeString() {
